@@ -2,7 +2,6 @@
     "name": "agrinvest/underscore.php",
     "type": "library",
     "description" : "A fork of brianhaveri/Underscore.php",
-    "homepage": "https://github.com/agrinvest/Underscore.php",
     "authors": [
         {"name": "Brian Haveri"}
     ],
