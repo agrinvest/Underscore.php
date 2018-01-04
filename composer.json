@@ -6,4 +6,14 @@
     "authors": [
         {"name": "Brian Haveri"}
     ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.1"
+    },
+    "autoload": {
+        "classmap": ["underscore.php"],
+        "files": ["underscore.php"]
+    }
 }
