@@ -1,0 +1,9 @@
+{
+    "name": "agrinvest/underscore.php",
+    "type": "library",
+    "description" : "A fork of brianhaveri/Underscore.php",
+    "homepage": "https://github.com/agrinvest/doctrine1",
+    "authors": [
+        {"name": "Brian Haveri"}
+    ],
+}
