@@ -2,7 +2,7 @@
     "name": "agrinvest/underscore.php",
     "type": "library",
     "description" : "A fork of brianhaveri/Underscore.php",
-    "homepage": "https://github.com/agrinvest/doctrine1",
+    "homepage": "https://github.com/agrinvest/Underscore.php",
     "authors": [
         {"name": "Brian Haveri"}
     ],
@@ -12,6 +12,10 @@
     "require-dev": {
         "phpunit/phpunit": "~4.1"
     },
+    "repositories" : [{
+        "type": "vcs",
+        "url": "https://github.com/agrinvest/Underscore.php"
+    }],
     "autoload": {
         "classmap": ["underscore.php"],
         "files": ["underscore.php"]
